@@ -1,3 +1,19 @@
+# PINRAIL-FORK
+
+## Origine
+- Fork de : **Pinrail**
+- Auteur : forgeplane
+- Dépôt d'origine : https://github.com/forgeplane/pinrail
+- Forké le 13.11.2026 par OMNIKORP-FAKTORY, avec tout l'historique et toutes les branches
+
+## Rôle chez OMNIKORP
+Prétendant d'AGENT SOFIA (S7), conservé comme preuve et sauvegarde, et étudié dans la chaîne EXTRACTION, COMPARAISON, FUSION.
+
+## Licence
+Apache 2.0, inchangée dans le fichier LICENSE.
+
+---
+
 # Pinrail
 
 [Website](https://pinrail.dev) · [Download](https://pinrail.dev/download/) ·
